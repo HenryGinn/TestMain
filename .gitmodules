@@ -1,6 +1,6 @@
 [submodule "Test1"]
-	path = Subfolder/Test1
+	path = Test1
 	url = https://github.com/HenryGinn/Test1
 [submodule "Subfolder/Test2"]
-	path = Subfolder/Test2
+	path = Test2
 	url = https://github.com/HenryGinn/Test2
