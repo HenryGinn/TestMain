@@ -1,2 +1,1 @@
-# TestMain
-This is a description of TestMain. This was added after Test1 was modified, but before those changes were committed to TestMain.
+This repository stores information on how repositories are organised. Each repository is represented by a .html file which acts as a link to the repository page when opened. Using this method means changes in the structure of the repositories can also be tracked.
